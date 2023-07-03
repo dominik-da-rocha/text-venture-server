@@ -11,6 +11,7 @@ services:
     volumes:
       - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
       - ./nginx/html:/usr/share/nginx/html
+      - ./nginx/home:/home
     networks:
       - net-back-end
       - net-front-end

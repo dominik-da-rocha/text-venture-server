@@ -1,2 +1,6 @@
 nginx/html
 text-venture/data
+ssl/*.key
+ssl/*.csr
+ssl/*.crt
+ssl/*.zip
