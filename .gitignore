@@ -1,4 +1,5 @@
 nginx/html
+nginx/home
 text-venture/data
 ssl/*.key
 ssl/*.csr
