@@ -1,5 +1,6 @@
 nginx/html
 nginx/home
+nginx/*.zip
 text-venture/data
 ssl/*.key
 ssl/*.csr
